@@ -1,0 +1,58 @@
+﻿Build started 24-Dec-19 3:30:58 PM.
+     1>Project "C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\Trivago GUI\Trivago GUI\Trivago GUI.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\Trivago GUI\sfml\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Hotel.cpp Source.cpp
+         Source.cpp
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\header.h(214): warning C4305: 'argument' : truncation from 'double' to 'float'
+         Hotel.cpp
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(35): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(213): warning C4101: 'tmpchoice' : unreferenced local variable
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(518): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1198): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1215): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1225): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1231): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1238): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1248): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1254): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1294): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1313): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1318): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1766): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1772): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1785): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1797): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1809): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1878): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1880): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(1887): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2138): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2161): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2171): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2177): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2222): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2243): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2248): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2290): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2387): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2400): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2412): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2424): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2436): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2475): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2501): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2506): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2508): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2548): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2657): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\documents\visual studio 2013\projects\trivago gui\trivago gui\hotel.cpp(2940): warning C4305: 'argument' : truncation from 'double' to 'float'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\Trivago GUI\Debug\Trivago GUI.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\Trivago GUI\sfml\lib" "sfml-system-d.lib" "sfml-graphics-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\Trivago GUI\Debug\Trivago GUI.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\Trivago GUI\Debug\Trivago GUI.lib" /MACHINE:X86 Debug\Hotel.obj
+         Debug\Source.obj
+         Trivago GUI.vcxproj -> C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\Trivago GUI\Debug\Trivago GUI.exe
+     1>Done Building Project "C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\Trivago GUI\Trivago GUI\Trivago GUI.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.76
